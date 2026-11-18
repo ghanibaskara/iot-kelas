@@ -1,0 +1,6 @@
+# SECRETS - jangan pernah di-commit
+jarak_layar/secrets.h
+*.pem
+*.key
+.vscode/
+build/
